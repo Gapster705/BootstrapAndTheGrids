@@ -21,3 +21,12 @@ main>.container {
 .minHeight{
     min-height: 80vh;
 }
+
+.text-justify {
+    text-align: justify;
+}
+
+body> main {
+    margin-top: 20px;
+    margin-bottom: 60px;
+}
