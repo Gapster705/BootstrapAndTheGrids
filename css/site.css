@@ -2,6 +2,14 @@ main>.container {
     padding: 60px 15px 0;
 }
 
+main>.container-lg {
+    padding-top: 60px;
+}
+
+main>.container-fluid {
+    padding-top: 60px;
+}
+
 .homeBG {
     width: 100%;
     background: url(/img/GridBG.png);
@@ -30,3 +38,4 @@ body> main {
     margin-top: 20px;
     margin-bottom: 60px;
 }
+
